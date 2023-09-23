@@ -9,7 +9,7 @@
 
 🧮 I have a passion for applying ML techniques and my experience with pricing, valuation, and forecasting analyses to generate useful insights and solve business problems.
 
-### Toolkit
+## Toolkit
 <div align="left">
     <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/pythonlogo.png" height="40" /> 
     <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/pandaslogo.png" height="40" />
