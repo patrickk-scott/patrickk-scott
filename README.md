@@ -1,2 +1,2 @@
-# patrickscott
-Repo for github profile
+# Welcome to Patrick Howland's Github Profile!
+
