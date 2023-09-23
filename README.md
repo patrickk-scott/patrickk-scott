@@ -14,7 +14,7 @@
     <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/pythonlogo.png" height="40" /> 
     <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/pandaslogo.png" height="40" />
     <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/numpylogo.png" height="40" /> 
-    <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/sklearnlogo.jpg" height="40" />
+    <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/sklearnlogo.png" height="40" />
     <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/matplotliblogo.png" height="40" /> 
     <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/tableaulogo.png" height="40" />
     <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/sqllogo.png" height="40" /> 
