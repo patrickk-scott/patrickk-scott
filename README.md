@@ -19,7 +19,7 @@
     <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/tableaulogo.png" height="40" />
     <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/sqllogo.png" height="40" /> 
     <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/Rlogo.png" height="40" />
-    <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/excellogo.jpg" height="40" />
+    <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/excellogo.png" height="40" />
 </div>
 
 
