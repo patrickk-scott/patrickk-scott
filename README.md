@@ -11,10 +11,10 @@
 
 ### Toolkit
 <div align="left">
-    <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/pythonlogo.png" width="40" height="40" /> 
-    <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/pandaslogo.png" width="40" height="40" />
-    <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/numpylogo.png" width="40" height="40" /> 
-    <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/sklearnlogo.jpg" width="40" height="40" />
+    <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/pythonlogo.png" height="40" /> 
+    <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/pandaslogo.png" height="40" />
+    <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/numpylogo.png" height="40" /> 
+    <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/sklearnlogo.jpg" height="40" />
 </div>
 
 
