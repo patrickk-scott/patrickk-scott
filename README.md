@@ -11,7 +11,7 @@
 
 ### Toolkit
 <div align="left">
-    <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/python%20logo.jpg" width="40" height="40" /> 
+    <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/pythonlogo.png" width="40" height="40" /> 
     <img src="https://github.com/patrickk-scott/patrickk-scott/blob/main/images/pandaslogo.png" width="40" height="40" />
 </div>
 
