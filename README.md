@@ -1,2 +1,2 @@
-# Welcome to Patrick Howland's Github Profile!
+# Welcome to Patrick's Github!
 
