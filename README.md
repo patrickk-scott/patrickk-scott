@@ -7,5 +7,7 @@
 
 👨‍🎓 I am currently pursuing a Master's in Data Science at the University of Colorado Boulder.
 
-🧮 <div align = "left">I have a passion for applying ML techniques and my experience with pricing, valuation, and forecasting analyses to generate useful insights and solve business problems.<div align = "left">
+🧮 I have a passion for applying ML techniques and my experience with pricing, valuation, and forecasting analyses to generate useful insights and solve business problems.
+
+### Skills
 
